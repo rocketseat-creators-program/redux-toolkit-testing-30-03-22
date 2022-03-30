@@ -7,6 +7,8 @@ para isso vamos criar juntos uma aplicação ao estilo airbnb, com uma listagem
 e filtragem de dados, dai vamos aprender sobre filosofia de testes e como
 como testar o nosso aplicativo passo a passo!
 
+
+
 ## Primeiros passos 🏁
 
 Clone o repositório.
@@ -48,7 +50,6 @@ com isso vamos ter acesso ao nosso servidor que esta rodando na porta
 
 Finalmente, vá para [localhost: 3000](http://localhost:3000) no navegador de sua escolha e você está pronto para ir 🚀.
 
-💡 **Dica profissional** use o branch `final` como guia de referência final, este branch contém o projeto final para que você possa acompanhar.
 
 ## Ferramentas 🧰
 
